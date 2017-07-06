@@ -57,14 +57,32 @@ Day   | Topics                | Task |
 - SSR: Server Side Rendering
 - Angular Libraries
 
+## Passing Criteria
+
+### Scoring
+
+All exercices and project are score from `0.0` to `5.0`. In order to pass the boot camp attendees must get at least a `4.0` in the final grade:
+
+Task              | Percentage   | Due Date
+:----------------:|:------------:|:-----------------:|
+Execise #1        | 10%          | Thursday, July 13 |
+Execise #2        | 10%          | Thursday, July 15 |
+**Class Project** | 20%          | Thursday, July 18 |
+Execise #3        | 15%          | Thursday, July 22 |
+Execise #4        | 15%          | Thursday, July 22 |
+**Final Project** | 30%          | Thursday, July 25 |
+
+### Assistance
+
+The participants must take at least 80% of the course, this is 26 hours.
+
 ## Required Environment Setup
 
 1. Sign up for a [GitHub](http://github.com/) account if you don't have one
 2. Install [Git](https://git-scm.com/)
 3. Install latest version of [Node and NPM](https://nodejs.org/en/)
 4. Install latest version of [Yarn](https://yarnpkg.com/en/)
-5. Install [Visual Studio Code](https://code.visualstudio.com/)
-  - The editor is a matter of taste, but this one is recommended, especially if you haven't tried it yet
+5. Install [Visual Studio Code](https://code.visualstudio.com/) (The editor is a matter of taste, but this one is recommended, especially if you haven't tried it yet)
 6. Run `yarn global add @angular/cli`
 
 ## Resources
@@ -86,7 +104,3 @@ Day   | Topics                | Task |
 - TypeScript
   - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
   - [TypeScript Playground](https://www.typescriptlang.org/play/)
-
-## Assistance Required
-
-The participants must take at least 80% of the course, this is 26 hours.
