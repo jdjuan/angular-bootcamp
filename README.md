@@ -29,7 +29,7 @@ Requirement | Topic             | Category           |
 
 The workload will be distributed within the following six sessions:
 
-Day  | July 2017         | Schedule              | Duration
+Day  | Date              | Schedule              | Duration
 :---:|-------------------|-----------------------|:---------:
 1    | Tuesday, July 11  | 5:00 p.m. - 9:00 p.m. | 4 hrs.
 2    | Thursday, July 13 | 5:00 p.m. - 9:00 p.m. | 4 hrs.
@@ -41,44 +41,14 @@ Day  | July 2017         | Schedule              | Duration
 
 ## Agenda
 
-### DAY 1: Tuesday, July 11
-
-- Introduction to SPA
-- TypeScript
-- Setup and Tooling
-- Components
-
-### DAY 2: Thursday, July 13
-
-- Template Syntax
-- Structural Directives
-- Attribute Directives
-- Pipes
-
-### DAY 3: Saturday, July 15
-
-- Architecture of Angular
-- Component Communication
-- Services
-- Modules
-- Routing
-- Lazy Loading
-
-### DAY 4: Tuesday, July 18
-
-- RxJS
-- HTTP
-- Data Mocking
-
-### DAY 5: Thursday, July 20
-
-- Angular Material
-- Forms and Validations
-- Angular Testing
-
-### DAY 6: Saturday, July 22
-
-- Final Project
+Day   | Topics                | Task |
+:----:|:---------------------:|:---------------------:|
+**1** | Introduction to SPA - TypeScript - Setup and Tooling - Components | Exercise |
+**2** | Template Syntax - Structural Directives - Attribute Directives - Pipes | Exercise |
+**3** | Architecture of Angular - Component Communication - Services - Modules - Routing - Lazy Loading | **Class Project** |
+**4** | RxJS - HTTP - Data Mocking | Exercise |
+**5** | Angular Material - Forms and Validations - Angular Testing | Exercise |
+**6** | Final Project | **Class Project** |
 
 ### Further Readings
 
