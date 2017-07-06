@@ -14,8 +14,8 @@ In order to ensure the quality of the learning process the course is limited to 
 
 The candidates will be **interviewed** in order to validate their knowledge prior the boot camp. The following topics will be assessed:
 
-Requirement | Topic             | Category              |
-:----------:|-------------------|-------------------|
+Requirement | Topic             | Category           |
+:----------:|-------------------|--------------------|
 1           | ES6, CSS, HTML    | Web Development    |
 2           | Git               | Version Control    |
 3           | Async Programming | Programming        |
@@ -23,6 +23,7 @@ Requirement | Topic             | Category              |
 5           | Package Managers  | Web Development    |
 6           | Task Runners      | Automation         |
 7           | Module Bundlers   | Web Development    |
+8           | GitHub            | Version Control    |
 
 ## Program Schedule
 
@@ -45,10 +46,10 @@ Day  | July 2017         | Schedule              | Duration
 - Introduction to SPA
 - TypeScript
 - Setup and Tooling
+- Components
 
 ### DAY 2: Thursday, July 13
 
-- Components
 - Template Syntax
 - Structural Directives
 - Attribute Directives
@@ -57,36 +58,34 @@ Day  | July 2017         | Schedule              | Duration
 ### DAY 3: Saturday, July 15
 
 - Architecture of Angular
-- Event and Property Binding
-- Modules
-- Forms and Validations
-
+- Component Communication
 - Services
-  - [Exercise](https://github.com/jdjuan/angular2-bootcamp/tree/day3-services)
-- Pipes
+- Modules
+- Routing
+- Lazy Loading
 
 ### DAY 4: Tuesday, July 18
 
-- Dependency Injection
-- Inversion of Dependencies
-- Inversion of Control
-  - [Exercise](https://github.com/jdjuan/angular2-bootcamp/tree/day4-services)
-- Routing
-  - [Exercise](https://github.com/jdjuan/angular2-bootcamp/tree/day4-routing)
+- RxJS
+- HTTP
+- Data Mocking
 
 ### DAY 5: Thursday, July 20
 
-- Lazy Loading
-  - [Exercise](https://github.com/jdjuan/angular2-bootcamp/tree/day5-lazy-loading)
-- HTTP and Promises
-- Observables and RxJS
-  - [Exercise](https://github.com/jdjuan/angular2-bootcamp/tree/day5-http-observable)
+- Angular Material
+- Forms and Validations
+- Angular Testing
 
 ### DAY 6: Saturday, July 22
 
-- Angular Testing
-- Data Mocking
-  - [Exercise](https://github.com/jdjuan/angular2-bootcamp/tree/day6-in-memory-web-api)
+- Final Project
+
+### Further Readings
+
+- Redux: ngrx
+- AOT: Ahead of Time Compilation
+- SSR: Server Side Rendering
+- Angular Libraries
 
 ## Required Environment Setup
 
