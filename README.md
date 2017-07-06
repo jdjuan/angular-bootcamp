@@ -1,16 +1,16 @@
 # Angular Boot Camp by Yuxi
 
-## Description
+## 1. Description
 
 This course covers all the core concepts and technical knowledge required to build professional Angular applications. This boot camp includes an introduction to SPA, TypeScript, project setup, architecture, events, data binding, services, remote calls, observables, routing, modules among others.
 
 After taking this course you will understand how to use Angular effectively by building a real world example. We will go through several hands-on exercises where you will grasp the main concepts of building a robust web application.Y
 
-## Assistance Limit
+## 2. Assistance Limit
 
 In order to ensure the quality of the learning process the course is limited to **13 people.**
 
-## Selection Filter
+## 3. Selection Filter
 
 The candidates will be **interviewed** in order to validate their knowledge prior the boot camp. The following topics will be assessed:
 
@@ -25,7 +25,7 @@ Requirement | Topic             | Category           |
 7           | Module Bundlers   | Web Development    |
 8           | GitHub            | Version Control    |
 
-## Program Schedule
+## 4. Program Schedule
 
 The workload will be distributed within the following six sessions:
 
@@ -39,7 +39,7 @@ Day  | Date              | Schedule              | Duration
 6    | Saturday, July 22 | 8:00 a.m. - 5:00 p.m. | 8 hrs.
  | **Total Duration** ||| **32 Hours**
 
-## Agenda
+## 5. Agenda
 
 Day   | Topics                | Task |
 :----:|:---------------------:|:---------------------:|
@@ -57,9 +57,9 @@ Day   | Topics                | Task |
 - SSR: Server Side Rendering
 - Angular Libraries
 
-## Passing Criteria
+## 6. Passing Criteria
 
-### Scoring
+### 6.1 Scoring Criteria
 
 All exercices and project are score from `0.0` to `5.0`. In order to pass the boot camp attendees must get at least a `4.0` in the final grade:
 
@@ -72,11 +72,11 @@ Execise #3        | 15%          | Thursday, July 22 |
 Execise #4        | 15%          | Thursday, July 22 |
 **Final Project** | 30%          | Thursday, July 25 |
 
-### Assistance
+### 6.2 Assistance Criteria
 
 The participants must take at least 80% of the course, this is 26 hours.
 
-## Required Environment Setup
+## 7. Required Environment Setup
 
 1. Sign up for a [GitHub](http://github.com/) account if you don't have one
 2. Install [Git](https://git-scm.com/)
@@ -85,7 +85,7 @@ The participants must take at least 80% of the course, this is 26 hours.
 5. Install [Visual Studio Code](https://code.visualstudio.com/) (The editor is a matter of taste, but this one is recommended, especially if you haven't tried it yet)
 6. Run `yarn global add @angular/cli`
 
-## Resources
+## 8. Resources
 
 - Angular
   - [Angular Style Guide](https://angular.io/docs/ts/latest/guide/style-guide.html)
