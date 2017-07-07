@@ -35,7 +35,7 @@ Day  | Date              | Schedule              | Duration
 2    | Thursday, July 13 | 5:00 p.m. - 9:00 p.m. | 4 hrs.
 3    | Saturday, July 15 | 8:00 a.m. - 5:00 p.m. | 8 hrs.
 4    | Tuesday, July 18  | 5:00 p.m. - 9:00 p.m. | 4 hrs.
-5    | Thursday, July 20 | 5:00 p.m. - 9:00 p.m. | 4 hrs.
+5    | Friday, July 21   | 5:00 p.m. - 9:00 p.m. | 4 hrs.
 6    | Saturday, July 22 | 8:00 a.m. - 5:00 p.m. | 8 hrs.
  | **Total Duration** ||| **32 Hours**
 
@@ -66,11 +66,11 @@ All exercices and project are score from `0.0` to `5.0`. In order to pass the bo
 Task              | Percentage   | Due Date
 :----------------:|:------------:|:-----------------:|
 Execise #1        | 10%          | Thursday, July 13 |
-Execise #2        | 10%          | Thursday, July 15 |
-**Class Project** | 20%          | Thursday, July 18 |
-Execise #3        | 15%          | Thursday, July 22 |
-Execise #4        | 15%          | Thursday, July 22 |
-**Final Project** | 30%          | Thursday, July 25 |
+Execise #2        | 10%          | Saturday, July 15 |
+**Class Project** | 20%          | Tuesday, July 18  |
+Execise #3        | 15%          | Friday, July 21   |
+Execise #4        | 15%          | Saturday, July 22 |
+**Final Project** | 30%          | Tuesday, July 25 |
 
 ### 6.2 Assistance Criteria
 
