@@ -43,8 +43,8 @@ Day  | Date              | Schedule              | Duration
 
 Day   | Topics                | Task |
 :----:|:---------------------:|:---------------------:|
-**1** | Introduction to SPA - TypeScript - Setup and Tooling - Components | Exercise |
-**2** | Template Syntax - Structural Directives - Attribute Directives - Pipes | Exercise |
+**1** | Introduction to SPA - TypeScript - Setup and Tooling | Exercise |
+**2** | Components - Structural Directives - Attribute Directives - Pipes - Template Syntax | Exercise |
 **3** | Architecture of Angular - Component Communication - Services - Modules - Routing - Lazy Loading | **Class Project** |
 **4** | RxJS - HTTP - Data Mocking | Exercise |
 **5** | Angular Material - Forms and Validations - Angular Testing | Exercise |
