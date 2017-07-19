@@ -104,3 +104,7 @@ The participants must take at least 80% of the course, this is 26 hours.
 - TypeScript
   - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
   - [TypeScript Playground](https://www.typescriptlang.org/play/)
+- RxJS
+  - [Operators Examples](https://gist.github.com/btroncone/d6cf141d6f2c00dc6b35)
+  - [Rx Marbles](http://rxmarbles.com/)
+
