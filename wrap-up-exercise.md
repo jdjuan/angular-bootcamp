@@ -2,11 +2,11 @@
 
 1. Let's create an Application with two fields and a button: 
 
-Fields:
+**Fields:**
     - Article
     - Value
 
-Buttons:
+**Buttons:**
     - Submit 
 
 2. Once the button is submitted the app should calculate the VAT(`19%`) of the article and output the following message for the input (Tesla, 30000):
