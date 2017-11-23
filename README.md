@@ -29,15 +29,15 @@ Requirement | Topic             | Category           |
 
 The workload will be distributed within the following six sessions:
 
-Day  | Date              | Schedule              | Duration
-:---:|-------------------|-----------------------|:---------:
-1    | Tuesday, July 11  | 5:00 p.m. - 9:00 p.m. | 4 hrs.
-2    | Thursday, July 13 | 5:00 p.m. - 9:00 p.m. | 4 hrs.
-3    | Saturday, July 15 | 8:00 a.m. - 5:00 p.m. | 8 hrs.
-4    | Tuesday, July 18  | 5:00 p.m. - 9:00 p.m. | 4 hrs.
-5    | Friday, July 21   | 5:00 p.m. - 9:00 p.m. | 4 hrs.
-6    | Saturday, July 22 | 8:00 a.m. - 5:00 p.m. | 8 hrs.
- | **Total Duration** ||| **32 Hours**
+Day  | Schedule              | Duration
+:---:|-----------------------|:---------:
+1    | 4:00 p.m. - 8:00 p.m. | 4 hrs.
+2    | 4:00 p.m. - 8:00 p.m. | 4 hrs.
+3    | 4:00 p.m. - 8:00 p.m. | 4 hrs.
+4    | 4:00 p.m. - 8:00 p.m. | 4 hrs.
+5    | 4:00 p.m. - 8:00 p.m. | 4 hrs.
+6    | 8:00 a.m. - 4:00 p.m. | 8 hrs.
+ | **Total Duration** || **28 Hours**
 
 ## 5. Agenda
 
@@ -48,7 +48,7 @@ Day   | Topics                | Task |
 **3** | Binding - IO - Modules - Architecture of Angular | **Class Project** |
 **4** | Services - Models - RxJS - HTTP | Exercise |
 **5** | Routing - Lazy Loading - Data Mocking | Exercise |
-**6** | Angular Material - Forms and Validations - Angular Testing - Final Project | **Class Project** |
+**6** | Angular Material - Forms and Validations - Angular Testing | **Final Project** |
 
 ### Further Readings
 
@@ -63,18 +63,18 @@ Day   | Topics                | Task |
 
 All exercices and project are score from `0.0` to `5.0`. In order to pass the boot camp attendees must get at least a `4.0` in the final grade:
 
-Task              | Percentage   | Due Date
-:----------------:|:------------:|:-----------------:|
-Execise #1        | 10%          | Thursday, July 13 |
-Execise #2        | 10%          | Saturday, July 15 |
-**Class Project** | 20%          | Tuesday, July 18  |
-Execise #3        | 15%          | Friday, July 21   |
-Execise #4        | 15%          | Saturday, July 22 |
-**Final Project** | 30%          | Tuesday, July 25 |
+Task              | Percentage   |
+:----------------:|:------------:|
+Execise #1        | 10%          |
+Execise #2        | 10%          |
+**Class Project** | 20%          |
+Execise #3        | 15%          |
+Execise #4        | 15%          |
+**Final Project** | 30%          |
 
 ### 6.2 Assistance Criteria
 
-The participants must take at least 80% of the course, this is 26 hours.
+The participants must take at least 80% of the course, this is 24 hours.
 
 ## 7. Required Environment Setup
 
