@@ -4,13 +4,9 @@
 
 This course covers all the core concepts and technical knowledge required to build professional Angular applications. This boot camp includes an introduction to SPA, TypeScript, project setup, architecture, events, data binding, services, remote calls, observables, routing, modules among others.
 
-After taking this course you will understand how to use Angular effectively by building a real world example. We will go through several hands-on exercises where you will grasp the main concepts of building a robust web application.Y
+After taking this course you will understand how to use Angular effectively by building a real world example. We will go through several hands-on exercises where you will grasp the main concepts of building a robust web application.
 
-## 2. Assistance Limit
-
-In order to ensure the quality of the learning process the course is limited to **13 people.**
-
-## 3. Selection Filter
+## 2. Selection Filter
 
 The candidates will be **interviewed** in order to validate their knowledge prior the boot camp. The following topics will be assessed:
 
@@ -25,7 +21,7 @@ Requirement | Topic             | Category           |
 7           | Module Bundlers   | Web Development    |
 8           | GitHub            | Version Control    |
 
-## 4. Program Schedule
+## 3. Program Schedule
 
 The workload will be distributed within the following six sessions:
 
@@ -39,7 +35,7 @@ Day  | Schedule              | Duration
 6    | 8:00 a.m. - 4:00 p.m. | 8 hrs.
  | **Total Duration** || **28 Hours**
 
-## 5. Agenda
+## 4. Agenda
 
 Day   | Topics                | Task |
 :----:|:---------------------:|:---------------------:|
@@ -50,16 +46,9 @@ Day   | Topics                | Task |
 **5** | Routing - Lazy Loading - Data Mocking | Exercise |
 **6** | Angular Material - Forms and Validations - Angular Testing | **Final Project** |
 
-### Further Readings
+## 5. Passing Criteria
 
-- Redux: ngrx
-- AOT: Ahead of Time Compilation
-- SSR: Server Side Rendering
-- Angular Libraries
-
-## 6. Passing Criteria
-
-### 6.1 Scoring Criteria
+### 5.1 Scoring Criteria
 
 All exercices and project are score from `0.0` to `5.0`. In order to pass the boot camp attendees must get at least a `4.0` in the final grade:
 
@@ -67,16 +56,16 @@ Task              | Percentage   |
 :----------------:|:------------:|
 Execise #1        | 10%          |
 Execise #2        | 10%          |
-**Class Project** | 20%          |
-Execise #3        | 15%          |
-Execise #4        | 15%          |
-**Final Project** | 30%          |
+**Class Project** | 25%          |
+Execise #3        | 10%          |
+Execise #4        | 10%          |
+**Final Project** | 35%          |
 
-### 6.2 Assistance Criteria
+### 5.2 Assistance Criteria
 
 The participants must take at least 80% of the course, this is 24 hours.
 
-## 7. Required Environment Setup
+## 6. Environment Setup
 
 1. Sign up for a [GitHub](http://github.com/) account if you don't have one
 2. Install [Git](https://git-scm.com/)
@@ -84,6 +73,13 @@ The participants must take at least 80% of the course, this is 24 hours.
 4. Install latest version of [Yarn](https://yarnpkg.com/en/)
 5. Install [Visual Studio Code](https://code.visualstudio.com/) (The editor is a matter of taste, but this one is recommended, especially if you haven't tried it yet)
 6. Run `yarn global add @angular/cli`
+
+## 7. Further Readings
+
+- Redux: ngrx
+- AOT: Ahead of Time Compilation
+- SSR: Server Side Rendering
+- Angular Libraries
 
 ## 8. Resources
 
