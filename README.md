@@ -54,10 +54,10 @@ All exercices and project are score from `0.0` to `5.0`. In order to pass the bo
 
 Task              | Percentage   |
 :----------------:|:------------:|
-Execise #1        | 10%          |
-Execise #2        | 10%          |
-**Class Project** | 25%          |
-Execise #3        | 10%          |
+[Execise #1](https://github.com/jdjuan/your-first-angular-application)        | 10%          |
+[Execise #2](https://github.com/angular-medellin/learn-more)        | 10%          |
+[**Class Project**](https://angular.io/tutorial) | 25%          |
+[Execise #3](https://github.com/angular-medellin/learn-much-more#aprendamos-http-en-angular)        | 10%          |
 Execise #4        | 10%          |
 **Final Project** | 35%          |
 
@@ -73,6 +73,7 @@ The participants must take at least 80% of the course, this is 24 hours.
 4. Install latest version of [Yarn](https://yarnpkg.com/en/)
 5. Install [Visual Studio Code](https://code.visualstudio.com/) (The editor is a matter of taste, but this one is recommended, especially if you haven't tried it yet)
 6. Run `yarn global add @angular/cli`
+7. Install [VSCode Extensions](https://gist.github.com/jdjuan/c174b0bdd291260eb96695b994d208c9)
 
 ## 7. Further Readings
 
@@ -101,6 +102,8 @@ The participants must take at least 80% of the course, this is 24 hours.
   - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
   - [TypeScript Playground](https://www.typescriptlang.org/play/)
 - RxJS
+  - [Learn-rxjs](https://www.learnrxjs.io/)
   - [Operators Examples](https://gist.github.com/btroncone/d6cf141d6f2c00dc6b35)
   - [Rx Marbles](http://rxmarbles.com/)
+  - [RxFiddle](http://rxfiddle.net/)
 
