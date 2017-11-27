@@ -40,7 +40,7 @@ Day  | Schedule              | Duration
 Day   | Topics                | Task |
 :----:|:---------------------:|:---------------------:|
 **1** | Introduction to SPA - TypeScript - Setup and Tooling | Exercise |
-**2** | Components - Structural Directives - Attribute Directives - Pipes - Template Syntax | Exercise |
+**2** | Components - Structural Directives - Attribute Directives - Pipes - TypeScript Models | Exercise |
 **3** | Binding - IO - Modules - Architecture of Angular | **Class Project** |
 **4** | Services - Models - RxJS - HTTP | Exercise |
 **5** | Routing - Lazy Loading - Data Mocking | Exercise |
