@@ -101,6 +101,7 @@ The participants must take at least 80% of the course, this is 24 hours.
 - TypeScript
   - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
   - [TypeScript Playground](https://www.typescriptlang.org/play/)
+  - [JSON to TS](https://www.jsontots.com/)
 - RxJS
   - [Learn-rxjs](https://www.learnrxjs.io/)
   - [Operators Examples](https://gist.github.com/btroncone/d6cf141d6f2c00dc6b35)
