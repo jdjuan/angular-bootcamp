@@ -73,7 +73,7 @@ The participants must take at least 80% of the course, this is 24 hours.
 4. Install latest version of [Yarn](https://yarnpkg.com/en/)
 5. Install [Visual Studio Code](https://code.visualstudio.com/) (The editor is a matter of taste, but this one is recommended, especially if you haven't tried it yet)
 6. Run `yarn global add @angular/cli`
-7. Install [VSCode Extensions](https://gist.github.com/jdjuan/c174b0bdd291260eb96695b994d208c9)
+7. Setup your VSCode with this [setup](https://gist.github.com/jdjuan/c174b0bdd291260eb96695b994d208c9#angular-vscode-config)
 
 ## 7. Further Readings
 
