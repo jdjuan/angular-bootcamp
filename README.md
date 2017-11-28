@@ -41,7 +41,7 @@ Day   | Topics                | Task |
 :----:|:---------------------:|:---------------------:|
 **1** | Introduction to SPA - TypeScript - Setup and Tooling | Exercise |
 **2** | Components - Structural Directives - Attribute Directives - Pipes - TypeScript Models | Exercise |
-**3** | Binding - IO - Modules - Architecture of Angular | **Class Project** |
+**3** | GitHub Deployment - Binding - IO - Modules - Architecture of Angular | **Class Project** |
 **4** | Services - Models - RxJS - HTTP | Exercise |
 **5** | Routing - Lazy Loading - Data Mocking | Exercise |
 **6** | Angular Material - Forms and Validations - Angular Testing | **Final Project** |
