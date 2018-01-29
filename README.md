@@ -10,41 +10,34 @@ After taking this course you will understand how to use Angular effectively by b
 
 The candidates will be **interviewed** in order to validate their knowledge prior the boot camp. The following topics will be assessed:
 
-Requirement | Topic             | Category           |
-:----------:|-------------------|--------------------|
-1           | ES6, CSS, HTML    | Web Development    |
-2           | Git               | Version Control    |
-3           | Async Programming | Programming        |
-4           | REST Protocol     | Web Services       |
-5           | Package Managers  | Web Development    |
-6           | Task Runners      | Automation         |
-7           | Module Bundlers   | Web Development    |
-8           | GitHub            | Version Control    |
+| Requirement | Topic             | Category        |
+| :---------: | ----------------- | --------------- |
+| 1           | ES6, CSS, HTML    | Web Development |
+| 2           | Git               | Version Control |
+| 3           | Async Programming | Programming     |
+| 4           | REST Protocol     | Web Services    |
+| 5           | Package Managers  | Web Development |
+| 6           | Task Runners      | Automation      |
+| 7           | Module Bundlers   | Web Development |
+| 8           | GitHub            | Version Control |
 
 ## 3. Program Schedule
 
-The workload will be distributed within the following six sessions:
+The workload will be distributed in **8 sessions** of **4 hours** for a total of **32 hours.**
 
-Day  | Schedule              | Duration
-:---:|-----------------------|:---------:
-1    | 4:00 p.m. - 8:00 p.m. | 4 hrs.
-2    | 4:00 p.m. - 8:00 p.m. | 4 hrs.
-3    | 4:00 p.m. - 8:00 p.m. | 4 hrs.
-4    | 4:00 p.m. - 8:00 p.m. | 4 hrs.
-5    | 4:00 p.m. - 8:00 p.m. | 4 hrs.
-6    | 8:00 a.m. - 4:00 p.m. | 8 hrs.
- | **Total Duration** || **28 Hours**
 
 ## 4. Agenda
 
-Day   | Topics                | Task |
-:----:|:---------------------:|:---------------------:|
-**1** | Introduction to SPA - TypeScript - Setup and Tooling | Exercise |
-**2** | Components - Structural Directives - Attribute Directives - Pipes - TypeScript Models | Exercise |
-**3** | GitHub Deployment - Binding - IO - Modules - Architecture of Angular | **Class Project** |
-**4** | Services - Models - RxJS - HTTP | Exercise |
-**5** | Routing - Lazy Loading - Data Mocking | Exercise |
-**6** | Angular Material - Forms and Validations - Angular Testing | **Final Project** |
+| Day   | Topics                                                                                | Task              |
+| :---: | :-----------------------------------------------------------------------------------: | :---------------: |
+| **1** | Introduction to SPA - TypeScript - Setup and Tooling                                  | Exercise          |
+| **2** | Components - Structural Directives - Attribute Directives - Pipes - TypeScript Models | Exercise          |
+| **3** | GitHub Deployment - Binding - IO - Modules - Architecture of Angular                  | Exercise          |
+| **4** | Services - Models - RxJS - HTTP                                                       | Exercise          |
+| **5** | Routing - Lazy Loading - Data Mocking                                                 | Exercise          |
+| **6** | Forms and Validations                                                                 | Exercise          |
+| **7** | Angular Material - Angular Testing                                                    | Exercise          |
+| **8** | Presentation                                                                          | **Final Project** |
 
 ## 5. Passing Criteria
 
@@ -52,18 +45,18 @@ Day   | Topics                | Task |
 
 All exercices and project are score from `0.0` to `5.0`. In order to pass the boot camp attendees must get at least a `4.0` in the final grade:
 
-Task              | Percentage   |
-:----------------:|:------------:|
-[Execise #1](https://github.com/jdjuan/your-first-angular-application)        | 10%          |
-[Execise #2](https://github.com/angular-medellin/learn-more)        | 10%          |
-[**Class Project**](https://angular.io/tutorial) | 25%          |
-[Execise #3](https://github.com/angular-medellin/learn-much-more#aprendamos-http-en-angular)        | 10%          |
-Execise #4        | 10%          |
-**Final Project** | 35%          |
+| Tasks                                                                                        | Percentage |
+| :------------------------------------------------------------------------------------------: | :--------: |
+| [Execise #1](https://github.com/jdjuan/your-first-angular-application)                       | 10%        |
+| [Execise #2](https://github.com/angular-medellin/learn-more)                                 | 10%        |
+| [Execise #3](https://github.com/angular-medellin/learn-much-more#aprendamos-http-en-angular) | 10%        |
+| [**Class Project**](https://angular.io/tutorial)                                             | 25%        |
+| Execise #4                                                                                   | 10%        |
+| **Final Project**                                                                            | 35%        |
 
 ### 5.2 Assistance Criteria
 
-The participants must take at least 80% of the course, this is 24 hours.
+The participants must take at least 80% of the course.
 
 ## 6. Environment Setup
 
