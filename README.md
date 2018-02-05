@@ -62,7 +62,7 @@ The participants must take at least 80% of the course.
 
 1. Sign up for a [GitHub](http://github.com/) account if you don't have one
 2. Install [Git](https://git-scm.com/)
-3. Install latest version of [Node and NPM](https://nodejs.org/en/)
+3. Install latest version of [Node and NPM](https://nodejs.org/en/) (LTS)
 4. Install latest version of [Yarn](https://yarnpkg.com/en/)
 5. Install [Visual Studio Code](https://code.visualstudio.com/) (The editor is a matter of taste, but this one is recommended, especially if you haven't tried it yet)
 6. Run `yarn global add @angular/cli`
