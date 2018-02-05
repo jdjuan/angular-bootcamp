@@ -30,14 +30,14 @@ The workload will be distributed in **8 sessions** of **4 hours** for a total of
 
 | Day   | Topics                                                                                | Task              |
 | :---: | :-----------------------------------------------------------------------------------: | :---------------: |
-| **1** | Introduction to SPA - TypeScript - Setup and Tooling                                  | Exercise          |
-| **2** | Components - Structural Directives - Attribute Directives - Pipes - TypeScript Models | Exercise          |
-| **3** | GitHub Deployment - Binding - IO - Modules - Architecture of Angular                  | Exercise          |
-| **4** | Services - Models - RxJS - HTTP                                                       | Exercise          |
-| **5** | Routing - Lazy Loading - Data Mocking                                                 | Exercise          |
-| **6** | Forms and Validations                                                                 | Exercise          |
-| **7** | Angular Material - Angular Testing                                                    | Exercise          |
-| **8** | Presentation                                                                          | **Final Project** |
+| **1** | Introduction to SPA - TypeScript - Setup and Tooling - Models - GitHub Deployment     | Exercise          |
+| **2** | Components - Structural Directives - Attribute Directives - Pipes                     | Exercise          |
+| **3** | Binding - IO - Modules - Services -  Architecture of Angular                          | Exercise          |
+| **4** | HTTP - RxJS - Async Pipe - Data Mocking                                               | Exercise          |
+| **5** | Routing - Guard - Lazy Loading                                                        | Exercise          |
+| **6** | Template Driven Forms - Reactive Forms - Validations                                  | Exercise          |
+| **7** | Angular Material - Testing                                                            | Exercise          |
+| **8** | Final Project Presentation                                                            | **Final Project** |
 
 ## 5. Passing Criteria
 
