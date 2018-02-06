@@ -31,8 +31,8 @@ The workload will be distributed in **8 sessions** of **4 hours** for a total of
 | Day   | Topics                                                                                | Task              |
 | :---: | :-----------------------------------------------------------------------------------: | :---------------: |
 | **1** | Introduction to SPA - TypeScript - Setup and Tooling - Models - GitHub Deployment     | Exercise          |
-| **2** | Components - Structural Directives - Attribute Directives - Pipes                     | Exercise          |
-| **3** | Binding - IO - Modules - Services -  Architecture of Angular                          | Exercise          |
+| **2** | Components - Binding -  Structural Directives - Attribute Directives - Pipes                     | Exercise          |
+| **3** | IO - Modules - Services -  Architecture of Angular                          | Exercise          |
 | **4** | HTTP - RxJS - Async Pipe - Data Mocking                                               | Exercise          |
 | **5** | Routing - Guard - Lazy Loading                                                        | Exercise          |
 | **6** | Template Driven Forms - Reactive Forms - Validations                                  | Exercise          |
