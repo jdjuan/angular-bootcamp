@@ -101,3 +101,15 @@ The participants must take at least 80% of the course.
   - [Rx Marbles](http://rxmarbles.com/)
   - [RxFiddle](http://rxfiddle.net/)
 
+<!-- 
+
+Routes in the app module
+routerLink with routerLinkActive
+routes in another module
+types of routes: **, order of routes
+routes in a feature module. (as if it were in the same place)
+param with activatedRoute
+Imperative this.router.navigate(['/heroes']);
+ChildRoutes
+Lazy Loading
+-->
