@@ -64,9 +64,11 @@ The participants must take at least 80% of the course.
 2. Install [Git](https://git-scm.com/)
 3. Install latest version of [Node and NPM](https://nodejs.org/en/) (LTS)
 4. Install latest version of [Yarn](https://yarnpkg.com/en/)
-5. Install [Visual Studio Code](https://code.visualstudio.com/) (The editor is a matter of taste, but this one is recommended, especially if you haven't tried it yet)
-6. Run `yarn global add @angular/cli`
-7. Setup your VSCode with this [setup](https://gist.github.com/jdjuan/c174b0bdd291260eb96695b994d208c9#angular-vscode-config)
+5. If you are Windows user, install [ConEmu](https://www.fosshub.com/ConEmu.html/ConEmuSetup.161206.exe) (or any other terminal different than CMD)
+6. Install [Visual Studio Code](https://code.visualstudio.com/) (The editor is a matter of taste, but this one is recommended, especially if you haven't tried it yet)
+7. Run `yarn global add @angular/cli`
+8. Run `ng set --global packageManager=yarn`
+9. Setup your VSCode with this [setup](https://gist.github.com/jdjuan/c174b0bdd291260eb96695b994d208c9#angular-vscode-config)
 
 ## 7. Further Readings
 
