@@ -1,4 +1,4 @@
-# Angular Boot Camp by Yuxi
+# Angular Corporate Training
 
 ## 1. Description
 
