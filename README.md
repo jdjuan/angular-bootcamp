@@ -48,7 +48,7 @@ It is HIGHLY recommended you to follow these steps before the start of the train
 6. Install [Visual Studio Code](https://code.visualstudio.com/) (The editor is a matter of taste, but this one is recommended, especially if you haven't tried it yet)
 7. Run `yarn global add @angular/cli`
 8. Run `ng config -g cli.packageManager yarn`
-9. **Configure your VSCode with this [setup]**(https://gist.github.com/jdjuan/c174b0bdd291260eb96695b994d208c9#angular-vscode-config)
+9. **Configure your VSCode with this [setup](https://gist.github.com/jdjuan/c174b0bdd291260eb96695b994d208c9#angular-vscode-config)**
 
 ## 7. Resources
 
