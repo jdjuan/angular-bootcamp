@@ -23,7 +23,7 @@ The workload will be distributed in **8 sessions** of **4 hours** for a total of
 
 | Day   | Topics                                                                       | Task              |
 | :---: | :--------------------------------------------------------------------------: | :---------------: |
-| **1** | Introduction - Setup and Tooling -  TypeScript  - Models - GitHub Deployment | Exercise          |
+| **1** | Introduction - Setup and Tooling - TypeScript - Models - Folder Structure - Deployment | Exercise          |
 | **2** | Components - Binding - Inputs/Outputs - Directives - Pipes                   | Exercise          |
 | **3** | HTTP - RxJS - Observables - Async Pipe - Services                            | Exercise          |
 | **4** | Modules  - Architecture of Angular                                           | Exercise          |
