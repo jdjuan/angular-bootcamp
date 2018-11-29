@@ -25,8 +25,8 @@ The workload will be distributed in **8 sessions** of **4 hours** for a total of
 | :---: | :--------------------------------------------------------------------------: | :---------------: |
 | **1** | Introduction - Setup and Tooling - TypeScript - Models - Folder Structure - Deployment | Exercise          |
 | **2** | Components - Binding - Inputs/Outputs - Directives - Pipes                   | Exercise          |
-| **3** | HTTP - RxJS - Observables - Async Pipe - Services                            | Exercise          |
-| **4** | Modules  - Architecture of Angular                                           | Exercise          |
+| **3** | Services - Modules - HTTP - RxJS - Async Pipe                            | Exercise          |
+| **4** | Modules Architecture in Angular                                           | Exercise          |
 | **5** | Routing - Guard - Lazy Loading                                               | Exercise          |
 | **6** | Reactive Forms - Validations                                                 | Exercise          |
 | **7** | Angular Material - Testing                                                   | Exercise          |
