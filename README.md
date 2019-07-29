@@ -23,13 +23,13 @@ The workload will be distributed in **8 sessions** of **4 hours** for a total of
 
 | Day   | Topics                                                                       | Task              |
 | :---: | :--------------------------------------------------------------------------: | :---------------: |
-| **1** | Introduction - Setup and Tooling - TypeScript - Folder Structure | Exercise          |
-| **2** | Components - Binding - Inputs & Outputs - Pipes                   | Exercise          |
-| **3** | Services - Modules - HTTP - RxJS - Async Pipe                            | Exercise          |
-| **4** | Generics - Architecture in Angular                                           | Exercise          |
-| **5** | Routing - Guard - Lazy Loading                                               | Exercise          |
-| **6** | Reactive Forms - Validations                                                 | Exercise          |
-| **7** | Angular Material - Testing                                                   | Exercise          |
+| **1** | Introduction - Setup and Tooling - TypeScript - Folder Structure | TypeScript Exercise - My first Angular app          |
+| **2** | Components - Bindings - Inputs & Outputs - Component Communication - Pipes                   | TodoMVC          |
+| **3** | Modules - RxJS - HTTP - Async Pipe - Services - TypesScript Generics                        | Yesno.wtf - Giphy API          |
+| **4** | Routing - Parameters - Lazy Loading - Guards - Preloading                                           | Exercise          |
+| **5** | Reactive Forms - Validations - Angular Material                                      | Exercise          |
+| **6** | Angular Best Practices                                                  | Exercise          |
+| **7** | Jasmine - Protractor                                                   | Exercise          |
 | **8** | Final Project Presentation                                                   | **Final Project** |
 
 ## 5. Scoring
