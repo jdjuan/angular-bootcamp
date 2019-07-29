@@ -23,7 +23,7 @@ The workload will be distributed in **8 sessions** of **4 hours** for a total of
 
 | Day   | Topics                                                                       | Task              |
 | :---: | :--------------------------------------------------------------------------: | :---------------: |
-| **1** | Introduction - Setup and Tooling - TypeScript - Folder Structure - Components | TypeScript - My first Angular app|
+| **1** | Introduction - Setup and Tooling - TypeScript - Folder Structure - Components | TypeScript - First App|
 | **2** | Bindings - Inputs/Outputs - Component Communication - Pipes - Modules                   | TodoMVC|
 | **3** | RxJS - HTTP - Async Pipe - Services - TypesScript Generics                        | Yesno.wtf - Giphy API          |
 | **4** | Routing - Params - Lazy Loading - Guards - Preloading                                           | Exercise          |
