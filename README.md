@@ -26,8 +26,8 @@ The workload will be distributed in **8 sessions** of **4 hours** for a total of
 | **1** | Introduction - Setup and Tooling - TypeScript - Folder Structure - Components | TypeScript - First App|
 | **2** | Bindings - Inputs/Outputs - Component Communication - Pipes - Modules                   | TodoMVC|
 | **3** | RxJS - HTTP - Async Pipe - Services - TypeScript Generics                        | Yesno.wtf - Giphy API          |
-| **4** | Routing - Params - Lazy Loading - Guards - Preloading                                           | Exercise          |
-| **5** | Reactive Forms - Validations - Angular Material                                      | Cat Login          |
+| **4** | Routing - Params - Lazy Loading - Guards - Preloading                                           | Cat Login          |
+| **5** | Reactive Forms - Validations - Angular Material                                      |Exercise|
 | **6** | Angular Best Practices                                                  | Exercise          |
 | **7** | Jasmine - Protractor                                                   | Exercise          |
 | **8** | Final Project                                                   | **Final Project** |
