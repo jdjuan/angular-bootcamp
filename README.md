@@ -2,9 +2,9 @@
 
 ## 1. Description
 
-This training covers all the core concepts and **practical** knowledge required to build professional Angular applications. Among the topics included are: SPA, TypeScript, Architecture, Data Binding, Services, HTTP, RxJS, Routing, Modules, among others.
+This training covers all the core concepts and **practical** knowledge required to build professional Angular applications. Among the topics included are SPA, TypeScript, Architecture, Data Binding, Services, HTTP, RxJS, Routing, Modules, among others.
 
-After taking this training, the participants will understand how to use Angular effectively by building a real world example. We will go through several hands-on exercises where you will grasp the main concepts of building a robust web application.
+After taking this training, the participants will understand how to use Angular effectively by building a real-world example. We will go through several hands-on exercises where you will grasp the main concepts of building a robust web application.
 
 ## 2. Prior Knowledge
 
