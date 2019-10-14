@@ -32,11 +32,11 @@ The workload will be distributed in **8 sessions** of **4 hours** for a total of
 | **7** | Jasmine - Protractor                                                   | Exercise          |
 | **8** | Final Project                                                   | **Final Project** |
 
-## 5. Scoring
+## 4. Scoring
 
 All exercices and project are score from `0.0` to `5.0`. At the end of the training, participants and stakeholders will receive all the grades.
 
-## 6. Environment Setup
+## 5. Environment Setup
 
 It is HIGHLY recommended you to follow these steps before the start of the training:
 
@@ -50,7 +50,7 @@ It is HIGHLY recommended you to follow these steps before the start of the train
 8. Run `ng config -g cli.packageManager yarn`
 9. **Configure your VSCode with this [setup](https://gist.github.com/jdjuan/c174b0bdd291260eb96695b994d208c9#angular-vscode-config)**
 
-## 7. Resources
+## 6. Resources
 
 - Angular
   - [Angular Style Guide](https://angular.io/docs/ts/latest/guide/style-guide.html)
