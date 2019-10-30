@@ -15,7 +15,7 @@ The participants will be required to review the following topics in order to suc
 | 1           | ES6, CSS, HTML | Web Development |
 | 2           | Git            | Version Control |
 | 3           | REST Protocol  | Web Services    |
-| 7           | GitHub         | Version Control |
+| 4           | GitHub         | Version Control |
 
 ## 3. Agenda
 
