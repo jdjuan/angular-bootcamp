@@ -27,7 +27,7 @@ The workload will be distributed in **8 sessions** of **4 hours** for a total of
 | **2** | Bindings - Inputs/Outputs - Directives - Pipes - Modules                   | TodoMVC|
 | **3** | RxJS - HTTP - Async Pipe - Services - Generics                        | Yesno.wtf - Dog API - Giphy API          |
 | **4** | Routing - Guards - Lazy Loading - Preloading                                           | Lego Login          |
-| **5** | Reactive Forms - Validations - Material                                      |Angular Project|
+| **5** | Reactive Forms - Validations - Material                                      |Gender Name Form - Angular Project|
 | **6** | Angular Best Practices                                                  | Exercise          |
 | **7** | Jasmine - Protractor                                                   | Exercise          |
 | **8** | Final Project                                                   | **Final Project** |
